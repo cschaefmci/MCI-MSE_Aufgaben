@@ -1,2 +1,2 @@
-##% MCI-MSE_Aufgaben
-## dieses Reposatory ist lediglich zur Übung da.
+## MCI-MSE_Aufgaben
+Dieses Reposatory ist lediglich zur Übung da.
